@@ -1,0 +1,146 @@
+body {
+    background-color: #F5E7C6;
+    
+    font-family: "forte", sans-serif;
+    color: #AC9C8B;
+    font-size: 100px;
+   
+}
+
+/* COLOR Start */
+
+#B200 {
+    color: #293241;
+}
+
+#B150 {
+    color: #3D5A80;
+}
+
+#B100 {
+    color: #98C1D9;
+}
+
+#B50 {
+    color: #E0FBFC;
+}
+
+#O200 {
+    color: #EE6C4D;
+}
+
+/* COLOR End */
+
+
+/* DIV BOX Color Start */
+#BoxCategory_1 {
+    background-color: #00f583;
+}
+
+#BoxCategory_2 {
+    background-color: #4100f5;
+}
+
+#BoxCategory_3 {
+    background-color: #f5008b;
+}
+
+#BoxCategory_4 {
+    background-color: #e9f500;
+}
+
+#BoxCategory_5 {
+    background-color: #8300f5;
+}
+
+/* DIV BOX Color End */
+
+
+/* INTRO PAGE Right Start */
+#Intro_BG {
+    background-image: url("Assets/illus_line.png");
+    height: 500px;
+    /* You must set a specified height */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+}
+
+
+
+body {
+    background-color: #F6DBC7;
+    font-family: "forte", sans-serif;
+    color: #AC9C8B;
+    font-size: 100px;
+   
+}
+
+/* COLOR Start */
+
+#B200 {
+    color: #293241;
+}
+
+#B150 {
+    color: #3D5A80;
+}
+
+#B100 {
+    color: #98C1D9;
+}
+
+#B50 {
+    color: #E0FBFC;
+}
+
+#O200 {
+    color: #EE6C4D;
+}
+
+/* COLOR End */
+
+
+/* DIV BOX Color Start */
+#BoxCategory_1 {
+    background-color: #00f583;
+}
+
+#BoxCategory_2 {
+    background-color: #4100f5;
+}
+
+#BoxCategory_3 {
+    background-color: #f5008b;
+}
+
+#BoxCategory_4 {
+    background-color: #e9f500;
+}
+
+#BoxCategory_5 {
+    background-color: #8300f5;
+}
+
+/* DIV BOX Color End */
+
+
+/* INTRO PAGE Right Start */
+#Intro_BG {
+    background-image: url("Assets/illus_line.png");
+    height: 500px;
+    /* You must set a specified height */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+}
+
+
+
+
